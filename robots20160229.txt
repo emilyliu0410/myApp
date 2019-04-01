@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /appserver/
+Disallow: /cms/
+Disallow: /FrameWork/
+Disallow: /sys/
+
+
+Sitemap: http://hk.ulifestyle.com.hk/sitemap/sitemap-event.xml
+Sitemap: http://hk.ulifestyle.com.hk/sitemap/sitemap-spot.xml
+Sitemap: http://hk.ulifestyle.com.hk/sitemap/sitemap-topic.xml
+Sitemap: http://hk.ulifestyle.com.hk/sitemap/sitemap-tour.xml
